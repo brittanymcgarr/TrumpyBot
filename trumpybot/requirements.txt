@@ -1,0 +1,5 @@
+SpeechRecognition
+PyAudio
+weather-api
+wikipedia
+Twython

@@ -1,0 +1,6 @@
+.idea
+*.pyc
+profile/
+transcripts/
+.git
+.c9
