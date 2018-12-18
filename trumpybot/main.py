@@ -8,11 +8,11 @@ from Brain.Brain import Brain
 
 
 def main():
-    bubo = Brain()
+    trumpybot = Brain()
 
-    while bubo.active:
-        bubo.listen()
-        bubo.interpret()
+    while trumpybot.active:
+        trumpybot.listen()
+        trumpybot.interpret()
 
 
 if __name__ == "__main__":
